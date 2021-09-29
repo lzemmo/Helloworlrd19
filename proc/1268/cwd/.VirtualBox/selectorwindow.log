@@ -1,0 +1,20 @@
+00:00:00.583850 VirtualBox GUI VM Selector Window 6.1.24 r145767 win.amd64 (Jul 16 2021 12:50:12) release log
+00:00:00.583854 Log opened 2021-09-28T18:36:20.279504900Z
+00:00:00.583855 Build Type: release
+00:00:00.583859 OS Product: Windows 10
+00:00:00.583860 OS Release: 10.0.19042
+00:00:00.583860 OS Service Pack: 
+00:00:00.596475 DMI Product Name: 82BJ
+00:00:00.599894 DMI Product Version: Yoga 7 15ITL5
+00:00:00.599904 Firmware type: UEFI
+00:00:00.600013 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.600022 Host RAM: 7991MB (7.8GB) total, 2256MB (2.2GB) available
+00:00:00.600025 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:00.600025 Process ID: 13060
+00:00:00.600026 Package type: WINDOWS_64BITS_GENERIC
+00:00:00.600161 Qt version: 5.6.2
+00:00:00.618306 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.030920 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:23.580880 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:26.951361 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:26.981156 GUI: UIMediumEnumerator: Medium-enumeration finished!

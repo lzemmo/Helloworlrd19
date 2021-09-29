@@ -1,0 +1,56 @@
+121:09:22.099279 dns-monitor Log continuation - Log started 2021-08-17T13:41:56.629215600Z
+121:09:22.099345 dns-monitor HostDnsMonitor: unchanged
+139:31:01.840395 USBPROXY usbLibGetDevices: Starting USB device enumeration
+139:31:01.840673 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&3881863d&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+139:31:01.841172 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+139:31:01.841246 USBPROXY USB: Unknown USB device detected (idVendor: 0x06cb, idProduct: 0x00be)
+139:31:02.467173 dns-monitor HostDnsMonitor: updating information
+139:31:02.467213 dns-monitor HostDnsMonitor: unchanged
+139:31:24.487549 dns-monitor HostDnsMonitor: updating information
+139:31:24.488902 dns-monitor HostDnsMonitor: unchanged
+139:32:46.229231 USBPROXY usbLibGetDevices: Starting USB device enumeration
+139:32:46.260570 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&3881863d&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+139:32:46.260698 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&3881863d&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 9
+139:32:46.260785 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&3881863d&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+139:32:46.260993 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+139:32:46.261047 USBPROXY USB: Unknown USB device detected (idVendor: 0x06cb, idProduct: 0x00be)
+139:34:11.369069 USBPROXY usbLibGetDevices: Starting USB device enumeration
+139:34:11.391110 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&3881863d&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 9
+139:34:11.391219 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&3881863d&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+139:34:11.391524 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+139:40:43.107967 dns-monitor HostDnsMonitor: updating information
+139:40:43.107993 dns-monitor HostDnsMonitor: unchanged
+139:40:46.803791 USBPROXY usbLibGetDevices: Starting USB device enumeration
+139:40:46.831637 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&3881863d&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+139:40:46.831765 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&3881863d&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 9
+139:40:46.831848 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&3881863d&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+139:40:46.832064 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+139:40:46.832142 USBPROXY USB: Unknown USB device detected (idVendor: 0x174f, idProduct: 0x243f)
+139:43:44.831909 USBPROXY usbLibGetDevices: Starting USB device enumeration
+139:43:44.853762 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&3881863d&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 9
+139:43:44.853914 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&3881863d&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+139:43:44.854239 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+139:59:44.810912 dns-monitor HostDnsMonitor: updating information
+139:59:44.810942 dns-monitor HostDnsMonitor: unchanged
+140:12:27.062154 USBPROXY usbLibGetDevices: Starting USB device enumeration
+140:12:27.095412 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&3881863d&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+140:12:27.095613 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&3881863d&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 9
+140:12:27.095698 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&3881863d&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+140:12:27.096007 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+140:12:27.096090 USBPROXY USB: Unknown USB device detected (idVendor: 0x174f, idProduct: 0x243f)
+141:04:17.961006 dns-monitor HostDnsMonitor: updating information
+141:04:17.961112 dns-monitor HostDnsMonitor: unchanged
+141:07:18.317156 USBPROXY usbLibGetDevices: Starting USB device enumeration
+141:07:18.339397 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&3881863d&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 9
+141:07:18.339512 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&3881863d&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+141:07:18.339861 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+141:31:57.941217 dns-monitor HostDnsMonitor: updating information
+141:31:57.941241 dns-monitor HostDnsMonitor: unchanged
+141:40:48.377800 USBPROXY usbLibGetDevices: Starting USB device enumeration
+141:40:48.407818 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&3881863d&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+141:40:48.407953 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&3881863d&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 9
+141:40:48.408035 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&3881863d&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+141:40:48.408473 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+141:40:48.408536 USBPROXY USB: Unknown USB device detected (idVendor: 0x174f, idProduct: 0x243f)
+144:13:42.654588 dns-monitor HostDnsMonitor: updating information
+144:13:42.654994 dns-monitor Log rotated - Log started 2021-08-17T13:41:56.629215600Z

@@ -1,0 +1,71 @@
+{
+	"name": "vscode-terminal-for-ubuntu",
+	"displayName": "VSCode Terminal For Ubuntu",
+	"description": "Integrates the Ubuntu WSL into VS Code",
+	"version": "0.0.2",
+	"publisher": "Docter60",
+	"icon": "logo.png",
+	"readme": "README.md",
+	"author": {
+		"name": "Docter60"
+	},
+	"license": "Refer to LICENSE.txt",
+	"engines": {
+		"vscode": "^1.35.0"
+	},
+	"bugs": {
+		"url": "https://github.com/Docter60/vscode-terminal-for-ubuntu/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Docter60/vscode-terminal-for-ubuntu.git"
+	},
+	"homepage": "https://github.com/Docter60/vscode-terminal-for-ubuntu",
+	"categories": [
+		"Other"
+	],
+	"qna": "https://github.com/Docter60/vscode-terminal-for-ubuntu/issues",
+	"keywords": [
+		"Ubuntu",
+		"Terminal",
+		"Linux"
+	],
+	"activationEvents": [
+		"onCommand:extension.newUbuntuTerminal"
+	],
+	"main": "./out/extension.js",
+	"contributes": {
+		"commands": [
+			{
+				"command": "extension.newUbuntuTerminal",
+				"title": "Open New Ubuntu Terminal"
+			}
+		],
+		"keybindings": [
+			{
+				"command": "extension.newUbuntuTerminal",
+				"key": "Ctrl+Alt+U"
+			}
+		]
+	},
+	"scripts": {
+		"vscode:prepublish": "npm run compile",
+		"compile": "tsc -p ./",
+		"watch": "tsc -watch -p ./",
+		"postinstall": "node ./node_modules/vscode/bin/install",
+		"test": "npm run compile && node ./node_modules/vscode/bin/test"
+	},
+	"devDependencies": {
+		"typescript": "^3.3.1",
+		"vscode": "^1.1.28",
+		"tslint": "^5.12.1",
+		"@types/node": "^10.12.21",
+		"@types/mocha": "^2.2.42"
+	},
+	"__metadata": {
+		"id": "297fddb5-629f-4374-8e27-00b61adc48a8",
+		"publisherId": "11f08c57-99b3-4162-a5dc-a98dad5f1267",
+		"publisherDisplayName": "Docter60",
+		"installedTimestamp": 1628489327273
+	}
+}
