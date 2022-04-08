@@ -3,6 +3,11 @@ pipeline {
   tools {
      maven 'Maven'
   }
+  environment {
+    regitry = "goufozemmo/devops-pipeline
+    registryCredential = 'DockerID'
+  
+  }
   stages {
     stage('build'){
       steps {
@@ -19,14 +24,8 @@ pipeline {
 }
      stage('deploy'){
       steps {
-       echo "deploy step"
-       sleep 10
-  }
-}
-     stage('docker'){
-      steps {
-        echo "image step"
-        sleep 10
+        script {
+         docker.build registry + ":$BUILD_NUMBER"
       }
     }
   }
