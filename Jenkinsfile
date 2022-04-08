@@ -5,8 +5,7 @@ pipeline {
   }
   environment {
     regitry = "goufozemmo/devops-pipeline"
-    registryCredential = 'DockerID'
-  
+    registryCredential = 'DockerID' 
   }
   stages {
     stage('build'){
