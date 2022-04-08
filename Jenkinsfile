@@ -4,7 +4,7 @@ pipeline {
      maven 'Maven'
   }
   environment {
-    regitry = "goufozemmo/devops-pipeline
+    regitry = "goufozemmo/devops-pipeline"
     registryCredential = 'DockerID'
   
   }
